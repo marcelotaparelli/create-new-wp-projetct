@@ -2,7 +2,6 @@
 
 ```bash
 mkdir -p ~/scripts
-nvim ~/scripts/new-wp-project.sh
 ```
 
 - clone o repo
